@@ -1,0 +1,51 @@
+section {
+    width: 100%;
+    float: left;
+
+}
+
+h1 { text-align: center;
+	color: black;
+
+}
+
+
+
+
+
+
+
+
+.container{
+     width: 90%;
+     margin: 0 auto;
+
+
+}
+
+ .sub-box-1 {
+      float: left;
+      width: 25%;
+      background-color: #7E4B40;
+      height: 200px;
+      margin-right: 30px
+
+ }
+
+ .sub-box-2 {
+      float: left;
+      width: 40%;
+      background-color: #000080;
+      height: 200px;
+      margin-left: 10px;
+
+ }
+
+
+ .sub-box-3 {
+      float: left;
+      width:25%;
+      background-color: #761D09;
+      height: 200px;
+      margin-left: 30px;
+ }
